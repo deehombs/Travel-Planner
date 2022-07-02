@@ -1,0 +1,44 @@
+/*@media (max-width: 1220px) {
+  section.card--container {
+    flex-wrap: wrap;
+  }
+}
+
+@media (max-width: 768px) {
+  header #logo {
+    margin: 0 auto;
+  }
+
+  main h1 {
+    text-align: center;
+  }
+
+  article.card {
+    width: 350px;
+  }
+}
+
+@media (max-width: 480px) {
+  section.card--container {
+    padding: 0 1vw
+  }
+  
+  article.card {
+    width: 300px;
+  }
+}
+*/
+
+@media screen and (min-width: 1950px ) { 
+  .travel-planner {
+    display: flex;
+    justify-content: flex-end;
+    width: 1090px;
+    height: 100px;
+    padding: 8px 30px 8px 1590px;
+    border-bottom: 3px solid rgba(0,0,0,0.1);
+  }
+
+
+}
+  
